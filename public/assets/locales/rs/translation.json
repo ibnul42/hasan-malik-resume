@@ -1,0 +1,6 @@
+{
+  "app_title": "Заголовок",
+  "language": "Язык",
+  "welcome_message": "Добро пожаловать",
+  "days_since_release": "с момента выхода этого видео прошло {{number_of_days}} дней"
+}
