@@ -2,5 +2,18 @@
   "app_title": "Заголовок",
   "language": "Язык",
   "welcome_message": "Добро пожаловать",
-  "days_since_release": "с момента выхода этого видео прошло {{number_of_days}} дней"
+  "days_since_release": "с момента выхода этого видео прошло {{number_of_days}} дней",
+  "navMenu": {
+    "home": "дом",
+    "features": "Особенности",
+    "blog": "блог",
+    "about": "о",
+    "contact": "Контакт"
+  },
+  "hello": "Привет",
+  "projects": "проекты",
+  "skills": "навыки и умения",
+  "certificates": "Сертификаты",
+  "certification_title1": "Сертифицированный архитектор решений AWS",
+  "certification_title2": "Профессиональный инженер по данным"
 }

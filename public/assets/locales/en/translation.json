@@ -2,5 +2,19 @@
   "app_title": "Title",
   "language": "Language",
   "welcome_message": "Welcome",
-  "days_since_release": "it's been {{number_of_days}} days since this video was released"
+  "days_since_release": "it's been {{number_of_days}} days since this video was released",
+  "navMenu_Home": "Home",
+  "navMenu": {
+    "home": "Home",
+    "features": "Features",
+    "blog": "Blog",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hello": "Hello",
+  "projects": "Projects",
+  "skills": "Skills",
+  "certificates": "Certificates",
+  "certification_title1": "AWS Certified Solutions Architect",
+  "certification_title2": "Professional Data Engineer"
 }

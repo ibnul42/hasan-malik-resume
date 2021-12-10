@@ -2,5 +2,18 @@
   "app_title": "Тақырып",
   "language": "Тіл",
   "welcome_message": "Қош келдіңіз",
-  "days_since_release": "бұл бейненің шыққанына {{number_of_days}} күн болды"
+  "days_since_release": "бұл бейненің шыққанына {{number_of_days}} күн болды",
+  "navMenu": {
+    "home": "Үй",
+    "features": "Мүмкіндіктер",
+    "blog": "Блог",
+    "about": "туралы",
+    "contact": "Байланыс"
+  },
+  "hello": "Сәлеметсіз бе",
+  "projects": "Жобалар",
+  "skills": "Дағдылар",
+  "certificates": "Сертификаттар",
+  "certification_title1": "AWS сертификатталған шешімдер сәулетшісі",
+  "certification_title2": "Кәсіби деректер инженері"
 }

@@ -2,5 +2,18 @@
   "app_title": "Nav",
   "language": "Ziman",
   "welcome_message": "Bi xêr hatî",
-  "days_since_release": "ji weşandina vê vîdyoyê {{jimar_of_roj}} roj derbas bûn"
+  "days_since_release": "ji weşandina vê vîdyoyê {{jimar_of_roj}} roj derbas bûn",
+  "navMenu": {
+    "home": "Xane",
+    "features": "Features",
+    "blog": "Blog",
+    "about": "Ji dor",
+    "contact": "Têkelî"
+  },
+  "hello": "slav",
+  "projects": "Projects",
+  "skills": "jêhatîbûn",
+  "certificates": "Sertîfîkayên",
+  "certification_title1": "AWS Certified Solutions Architect",
+  "certification_title2": "Endezyarê Data Professional"
 }
